@@ -75,3 +75,10 @@ crashlytics-build.properties
 /.idea
 /.vsconfig
 /TestData/*
+
+
+
+
+XProject/
+Digital-Logic-Sim**/
+Digital Logic Sim**/
